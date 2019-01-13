@@ -1,0 +1,2 @@
+# Digital-Billing-System-forRestaurants-
+This is a project done during my Winter Training Program on Python organized by Tech Gyanam at Gauhati University.This is a digital billing system for Restaurants. This system has specialities like as:1)A person will be provied the Menu containing prices,just after entering the restaurant. 2)After placing the order total amount of the orders will be shown and confirmation of the order will be asked.  3)They will have the option to quit or exit in every step.
